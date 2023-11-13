@@ -1,2 +1,2 @@
-# mamory
+# memory
 game memory
